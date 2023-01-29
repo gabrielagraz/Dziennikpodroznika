@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DziennikPodroznika</string>
+    <string name="image_content_description">Image content description</string>
+    <string name="no_place_available_yet">Nie ma żadnych miejsc</string>
+    <string name="btn_text_view_on_map">VIEW ON MAP</string>
+    <string name="location">Lokalizacja</string>
+    <string name="title">Nazwa miejsca</string>
+    <string name="date">Data</string>
+    <string name="description">Opis</string>
+    <string name="add_image">Dodaj zdjęcie</string>
+    <string name="save">Zapisz</string>
+    <string name="add_place_select_current_location_text">Wybierz swoją lokalizacje</string>
+    <string name="please_wait">Proszę czekać</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAfKKGI6CFhVWHU2siZreFsVfEzLRPoIG8</string>
+</resources>
